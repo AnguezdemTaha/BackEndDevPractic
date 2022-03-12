@@ -1,2 +1,2 @@
 # BackEndDevPractic
-Implementing and practicing frontend features
+Implementing and practicing backtend features
